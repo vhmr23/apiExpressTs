@@ -12,5 +12,5 @@ app.get('/', (_req, res) => {
 })
 
 app.listen(PORTR, () => {
-    console.log(`Server Ragnar started on port ${PORTR}`);
+    console.log(`Server Ragnar Lockbrock started on port ${PORTR}`);
 })
